@@ -1,0 +1,8 @@
+C:\Users\dorta\Documents\GitHub\Othello\Ex05.OthelloLogic\bin\Debug\OthelloLogic.dll.config
+C:\Users\dorta\Documents\GitHub\Othello\Ex05.OthelloLogic\bin\Debug\OthelloLogic.dll
+C:\Users\dorta\Documents\GitHub\Othello\Ex05.OthelloLogic\bin\Debug\OthelloLogic.pdb
+C:\Users\dorta\Documents\GitHub\Othello\Ex05.OthelloLogic\obj\Debug\OthelloLogic.csprojResolveAssemblyReference.cache
+C:\Users\dorta\Documents\GitHub\Othello\Ex05.OthelloLogic\obj\Debug\OthelloLogic.Properties.Resources.resources
+C:\Users\dorta\Documents\GitHub\Othello\Ex05.OthelloLogic\obj\Debug\OthelloLogic.csproj.GenerateResource.Cache
+C:\Users\dorta\Documents\GitHub\Othello\Ex05.OthelloLogic\obj\Debug\OthelloLogic.dll
+C:\Users\dorta\Documents\GitHub\Othello\Ex05.OthelloLogic\obj\Debug\OthelloLogic.pdb
