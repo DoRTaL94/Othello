@@ -1,0 +1,23 @@
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 DanielKfir 203448501 DorTal 206318537\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.dll.config
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 DanielKfir 203448501 DorTal 206318537\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.dll
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 DanielKfir 203448501 DorTal 206318537\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.pdb
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 DanielKfir 203448501 DorTal 206318537\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.Properties.Resources.resources
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 DanielKfir 203448501 DorTal 206318537\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.csproj.GenerateResource.Cache
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 DanielKfir 203448501 DorTal 206318537\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.dll
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 DanielKfir 203448501 DorTal 206318537\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.pdb
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.dll.config
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.dll
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.pdb
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.Properties.Resources.resources
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.csproj.GenerateResource.Cache
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.dll
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.pdb
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.csproj.CoreCompileInputs.cache
+C:\Users\dorta\Desktop\School\2nd year\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.dll.config
+C:\Users\dorta\Desktop\School\2nd year\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.dll
+C:\Users\dorta\Desktop\School\2nd year\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.pdb
+C:\Users\dorta\Desktop\School\2nd year\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.csprojResolveAssemblyReference.cache
+C:\Users\dorta\Desktop\School\2nd year\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.Properties.Resources.resources
+C:\Users\dorta\Desktop\School\2nd year\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.csproj.GenerateResource.Cache
+C:\Users\dorta\Desktop\School\2nd year\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.dll
+C:\Users\dorta\Desktop\School\2nd year\C#\שיעורי בית\הגשה 5\B19 Ex05 Modified\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.pdb
